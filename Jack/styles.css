@@ -1,0 +1,62 @@
+body{
+    background-color: #FBFFFE
+}
+
+
+.navpic{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+    margin-top: 10px;
+  width: 40%;
+}
+
+.imgsize{
+    width: 100%;
+    max-height: 1080px;
+}
+
+.mainhead{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 70px;
+}
+
+.secondhead{
+    font-family: 'Oswald', sans-serif;
+}
+
+.carousel{
+    width: 100%;
+}
+
+.navcenter{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: 40px;
+}
+
+nav{
+    height: 125px
+}
+
+.container2{
+    margin-top: 30px;
+}
+
+.insta{
+    height: 22px;
+    filter: brightness(1000%);
+}
+
+.insta:hover{
+    filter: brightness(100%);
+}
+
+.fb:hover{
+    color: #3B5998;
+}
+
+.yt:hover{
+    color: #C4302B;
+}
